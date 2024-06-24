@@ -1,7 +1,7 @@
-# NewONG HUB Service
+# New HUB Service
 
 ## Overview
-Welcome to the NewONG HUB Service. This project is a part of Self Project,  dedicated to combating hunger and malnutrition worldwide. The HUB Service is designed to connect the headquarters (HQs) of different countries and aggregate mission data into a unified response.
+ This project is a part of Self Project,  dedicated to combating hunger and malnutrition worldwide. The HUB Service is designed to connect the headquarters (HQs) of different countries and aggregate mission data into a unified response.
 
 ## Features
 
